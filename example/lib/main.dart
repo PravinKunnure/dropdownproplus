@@ -29,14 +29,14 @@ class ExamplePage extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            DropdownProPlus(
-              label: "Select Fruit",
-              items: ["Apple", "Banana", "Orange", "Mango"],
+            DropdownPlus(
+              dropdownLabel: "Fruits",
               onItemSelected: (value) {
                 ScaffoldMessenger.of(
                   context,
                 ).showSnackBar(SnackBar(content: Text("Selected: $value")));
               },
+              dropdownItems: ["Apple", "Banana", "Orange", "Mango"],
             ),
           ],
         ),
