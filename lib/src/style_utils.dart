@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 ///----TextFieldDecoration
 InputDecoration inputDecorationNormalTextField(
-  isEditing,
-  label,
-  inputType,
-  showLabelAbove,
-  isMandatory,
+  bool isEditing,
+  String label,
+  TextInputType inputType,
+  String showLabelAbove,
+  bool isMandatory,
   maxLines, {
   providedIcon,
   isDropDown = false,
@@ -69,7 +69,7 @@ InputDecoration inputDecorationNormalTextField(
                   ),
                 )
               : Text(
-                  isDropDown ? "$label" : "$label",
+                  isDropDown ? label : label,
                   style: TextStyle(
                     fontSize: 10.5, // color: Colors.white,
                     color: Colors.black,

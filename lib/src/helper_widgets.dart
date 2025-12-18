@@ -103,7 +103,7 @@ Widget dropdownTextField(
 
 ///------Searchbar Widget
 Widget dropdownSearchBar(
-  isSearchBarRequired,
+  bool isSearchBarRequired,
   dropdownLabel,
   Function(dynamic value) callBackSearch,
   Function(dynamic value) cancelCallBack,
@@ -214,7 +214,7 @@ Widget dropdownSearchBar(
 
 ///------Dropdown Buttons Widget
 Widget dropdownAction(
-  methodCall,
+  Function() methodCall,
   String textB, {
   buttonColor = Colors.black54,
   textColor = Colors.white,
