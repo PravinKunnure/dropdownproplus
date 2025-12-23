@@ -20,3 +20,11 @@
 - Pagination development is done
 - Now you can customise the dropdown item as per your requirement
 - Customisation can be done 
+
+
+## [0.1.2]
+### Added
+- UI modifications and functionality enhancement
+- Pagination is added
+- Multi selection is added
+- Now you can customise the dropdown item as per your requirement
