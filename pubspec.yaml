@@ -1,6 +1,6 @@
 name: dropdownproplus
 description: "A customizable dropdown overlay package for Flutter. #dropdown #dropdownproplus"
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/PravinKunnure/dropdownproplus
 repository: https://github.com/PravinKunnure/dropdownproplus
 
@@ -11,10 +11,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # Uncomment and add any packages your dropdownpro uses
-  # dio: ^6.0.0
-  # flutter_dotenv: ^5.0.2
-  # uuid: ^3.0.7
 
 dev_dependencies:
   flutter_test:
@@ -22,7 +18,5 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
 flutter:
-# Assets can go here if your package needs them
-# assets:
-#   - assets/images/
+
 
