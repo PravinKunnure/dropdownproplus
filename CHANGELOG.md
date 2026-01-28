@@ -28,3 +28,9 @@
 - Pagination is added
 - Multi selection is added
 - Now you can customise the dropdown item as per your requirement
+
+
+## [0.1.3]
+### Added
+- UI modifications and functionality enhancement
+- Docs changes 

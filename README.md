@@ -1,5 +1,7 @@
 # DropdownProPlus
 
+[![Pub Version](https://img.shields.io/pub/v/dropdownproplus)](https://pub.dev/packages/dropdownproplus) | [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+
 A customizable dropdown package for Flutter.
 
 ![DropdownProPlus Demo](https://raw.githubusercontent.com/PravinKunnure/dropdownproplus/main/example/assets/dropdownproplus.gif)
