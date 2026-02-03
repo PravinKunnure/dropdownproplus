@@ -34,3 +34,8 @@
 ### Added
 - UI modifications and functionality enhancement
 - Docs changes 
+
+## [0.1.5]
+### Added
+- UI modifications and functionality enhancement
+- Docs changes & functional information added
